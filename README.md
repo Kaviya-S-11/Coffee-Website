@@ -4,11 +4,6 @@
 
 ---
 
-## 🌐 Live Demo
-👉 (Add your GitHub Pages link here after hosting)
-
----
-
 ## 📌 Features
 
 ✨ Beautiful landing page with modern UI  
