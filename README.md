@@ -49,6 +49,7 @@ cd Coffee-Website
 
 ## 🔥See How it looks
 **HOME PAGE**
-<img width="1914" height="1020" alt="image" src="https://github.com/user-attachments/assets/c0908dc7-be69-4c75-96e3-7d63463e435a" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-28 002813" src="https://github.com/user-attachments/assets/b5e6eee2-ad26-408b-86c6-ac706de07a4b" />
 
 
